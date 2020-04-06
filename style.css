@@ -1,0 +1,88 @@
+html {
+    height: 100%;
+}
+
+
+body {
+    background-image: url(image/home.jpg);
+    background-color: #2f3035;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    background-color: rgba(0, 0, 0, 0.411);
+    padding: 0;
+}
+
+header {
+   
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.438);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    display: block;
+}
+main {
+    
+    height: 400px;
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 240px;
+    padding-left: 240px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.678);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+h1 {
+    font-size: 84px;
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serifs;
+}
+p {
+    font-size: 18spx;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serifs;
+}
+
+a {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav a {
+    text-decoration: none;
+    font-size: 180%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.container1 {
+    display: inline;
+    height: 200px;
+    width: 30%;
+    background-color: rgba(2, 36, 32, 0.521);
+
+}
+footer p {
+    font-size: 10px;
+    text-align: center;
+    color: rgb(194, 208, 219);
+}
+.container1 p {
+    font-style: italic;
+    text-align: center;
+    font-size: 20px;
+}
